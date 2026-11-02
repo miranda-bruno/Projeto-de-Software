@@ -1,0 +1,14 @@
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\bin\Debug\net8.0\projeto de software.exe
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\bin\Debug\net8.0\projeto de software.deps.json
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\bin\Debug\net8.0\projeto de software.runtimeconfig.json
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\bin\Debug\net8.0\projeto de software.dll
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\bin\Debug\net8.0\projeto de software.pdb
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.AssemblyInfoInputs.cache
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.AssemblyInfo.cs
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.csproj.CoreCompileInputs.cache
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.dll
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\refint\projeto de software.dll
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.pdb
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\projeto de software.genruntimeconfig.cache
+D:\DOCUMENTOS\Desktop\projeto de software\projeto de software\projeto de software\obj\Debug\net8.0\ref\projeto de software.dll
